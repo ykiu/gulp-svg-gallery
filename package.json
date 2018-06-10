@@ -1,0 +1,24 @@
+{
+  "name": "gulp-svg-gallery",
+  "version": "0.1.0",
+  "description": "Generates a thumbnail page of your SVG's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "author": "ykiu",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^6.0.0"
+  }
+}
