@@ -1,6 +1,6 @@
 # gulp-svg-gallery
 
-Generates a thumbnail page of your SVG's.
+Generates the listing of the SVG files in your project
 
 ![Screenshot](https://user-images.githubusercontent.com/32252655/41199715-a71ef21a-6cd1-11e8-89e5-15d2f46a3854.png "screenshot")
 
