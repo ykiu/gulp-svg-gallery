@@ -1,7 +1,7 @@
 {
   "name": "gulp-svg-gallery",
   "version": "0.1.0",
-  "description": "Generates a thumbnail page of your SVG's.",
+  "description": "Generates the listing of the SVG files in your project",
   "main": "src/index.js",
   "scripts": {
     "test": "gulp"
@@ -9,6 +9,10 @@
   "keywords": [
     "gulpplugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ykiu/gulp-svg-gallery.git"
+  },
   "author": "ykiu",
   "license": "MIT",
   "dependencies": {
